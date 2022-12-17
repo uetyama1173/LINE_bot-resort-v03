@@ -1,2 +1,4 @@
-# Line_ResortTech
-line-develop-gas v03
+#LINE_Name 
+リゾートテックbot v01
+
+
